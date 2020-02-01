@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoicing", "Invoicing\Invoicing.csproj", "{90046861-5EFB-464A-A43A-CDB9B9EA09CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoicingTests", "InvoicingTests\InvoicingTests.csproj", "{C7E67877-E251-4545-AFE6-FC4FBA8EB4A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90046861-5EFB-464A-A43A-CDB9B9EA09CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90046861-5EFB-464A-A43A-CDB9B9EA09CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90046861-5EFB-464A-A43A-CDB9B9EA09CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90046861-5EFB-464A-A43A-CDB9B9EA09CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7E67877-E251-4545-AFE6-FC4FBA8EB4A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E67877-E251-4545-AFE6-FC4FBA8EB4A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E67877-E251-4545-AFE6-FC4FBA8EB4A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E67877-E251-4545-AFE6-FC4FBA8EB4A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {094BE5DF-AEA4-43C8-AD94-26B4FFE56FAF}
+	EndGlobalSection
+EndGlobal
